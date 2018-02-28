@@ -1,0 +1,5 @@
+# vi
+*.swp
+
+# elm
+elm-stuff/
